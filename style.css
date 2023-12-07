@@ -77,4 +77,48 @@ button {
     border-radius: 7px;
 }
 
+.middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #F9FAF8;
+}
+
+h3 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    align-items: center;
+}
+
+.image01, 
+.image02,
+.image03, 
+.image04 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sea {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882F6;
+    border-radius: 5px;
+}
+
+.subtext {
+    width: 150px;
+    text-align: center;
+    color: #1F2937;
+    margin: 10px 0;
+}
 
