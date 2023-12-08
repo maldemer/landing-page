@@ -150,3 +150,47 @@ h3 {
     font-weight: bolder;
     color: #1F2937;
 }
+
+.signup {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.signup-container {
+    display: flex;
+    flex-direction: row;
+    background-color: #3882F6;
+    margin: 50px;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.action-text, .signup-text {
+    color: #E5E7EB;
+}
+
+.action-text {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.action-signup-container {
+    margin: 0px 70px;
+}
+
+.signup-button {
+    border: 3px solid #E5E7EB;
+    color: #E5E7EB;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+span {
+    color: rgb(73, 190, 236);
+}
