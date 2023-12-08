@@ -122,3 +122,31 @@ h3 {
     margin: 10px 0;
 }
 
+.wise-words-block {
+    display: flex;
+    flex-direction: column;
+    background-color: #E5E7EB;
+    justify-content: center ;
+}
+
+.wise-words-container {
+    display: flex;
+    flex-direction: column;
+    margin: 100px;
+    width: 650px;
+    align-self: center;
+}
+
+.wise-words {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.quoth {
+    display: block;
+    text-align: end;
+    font-size: 26px;
+    font-weight: bolder;
+    color: #1F2937;
+}
