@@ -151,6 +151,10 @@ h3 {
     color: #1F2937;
 }
 
+.quoth a {
+    color: blue;
+}
+
 .signup {
     display: flex;
     align-content: center;
