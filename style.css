@@ -42,8 +42,9 @@ a {
 }
 
 .top-image {
-    width: 400px;
-    height: 250px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
     display: flex;
     padding: 50px;
 }
