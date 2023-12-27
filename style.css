@@ -112,8 +112,8 @@ h3 {
 .sea {
     width: 150px;
     height: 150px;
-    border: 3px solid #3882F6;
-    border-radius: 5px;
+    /*border: 3px solid #3882F6;
+    border-radius: 5px;*/
 }
 
 .subtext {
